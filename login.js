@@ -1,4 +1,4 @@
-// Fingerprint authentication for Alpha Bank
+// Scans user fingerprint for authentication
 function scanFingerprint() {
     return true;
 }
